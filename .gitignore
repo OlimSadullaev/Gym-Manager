@@ -1,0 +1,91 @@
+
+.vs/
+
+
+bin/
+obj/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore NuGet packages
+packages/
+
+# Ignore Node.js modules
+node_modules/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Uncomment if you have tasks that create the project's static files in wwwroot (ASP.NET Core)
+#wwwroot/
+
+# Uncomment if you have tasks that compile TypeScript files to JavaScript (ASP.NET Core)
+#wwwroot/js/
+
+# OS-specific files
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+
+# Mono auto generated files
+mono_crash.*
+
+# Visual Studio working folder
+.vs/
+
+# NuGet Packages
+*.nupkg
+packages/
+*.snupkg
+
+# Rider
+.idea/
+
+# StyleCop
+StyleCopReport.xml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Entity Framework Core migrations
+[Mm]igrations/
